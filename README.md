@@ -44,8 +44,8 @@ Please follow the next steps to execute the project successfully.
 - If you want to run a specific test case, you can make use of Cucumber's Tags feature by adding `@CucumberOptions` the tag you want to run and adding it to the feature you want to run with that tag. [Tags](https://cucumber.io/docs/cucumber/api/?lang=java#tags)
 
 ## Evidence 🎥 
-- [One single device]()
-- [Two devices]()
+- [One single device](https://drive.google.com/file/d/1GXaVuuiJqcNNZmmPgSo6dFOhozymDBrI/view?usp=sharing)
+- [Two devices](https://drive.google.com/file/d/1Y65Tm14EnLMeXs3_MaqEysi9h8XMfo8a/view?usp=sharing)
 
 ### Report 📃
 Once the execution is finished, in the terminal you will be able to find a link with the report of cucumber generated automatically. Should look like this: ![img.png](images/cucumberReport.png)
