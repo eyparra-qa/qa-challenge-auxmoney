@@ -48,7 +48,7 @@ Please follow the next steps to execute the project successfully.
 - [Two devices]()
 
 ### Report 📃
-Once the execution is finished, in the terminal you will be able to find a link with the report of cucumber generated automatically. Should look like this: ![img.png](cucumberReport.png)
+Once the execution is finished, in the terminal you will be able to find a link with the report of cucumber generated automatically. Should look like this: ![img.png](images/cucumberReport.png)
 
 ## Build With 🛠️
 - [Appium](https://appium.io/)
