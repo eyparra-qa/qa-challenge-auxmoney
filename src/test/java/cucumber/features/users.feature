@@ -1,4 +1,3 @@
-@test
 Feature: Validate the information on the users page
 
   Scenario Outline: Review user information
